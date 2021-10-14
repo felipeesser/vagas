@@ -1,0 +1,9 @@
+{
+    "env":{
+        "MYSQL_USER":"usuario",
+        "MYSQL_PASSWORD":"senha",
+        "MYSQL_DATABASE":"salestime",
+        "MYSQL_HOST":"localhost",
+        "MYSQL_PORT":3306
+    }
+}
